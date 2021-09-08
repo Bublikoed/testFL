@@ -1,0 +1,38 @@
+
+@font-face {
+    font-family: 'GrtskTeraMedium';
+    src: url('~fonts/GrtskTeraMedium.eot');
+    src: url('~fonts/GrtskTeraMedium.eot') format('embedded-opentype'),
+         url('~fonts/GrtskTeraMedium.woff2') format('woff2'),
+         url('~fonts/GrtskTeraMedium.woff') format('woff'),
+         url('~fonts/GrtskTeraMedium.svg#GrtskTeraMedium') format('svg');
+}
+@font-face {
+    font-family: 'GrtskTeraSemiBold';
+    src: url('~fonts/GrtskTeraSemiBold.eot');
+    src: url('~fonts/GrtskTeraSemiBold.eot') format('embedded-opentype'),
+         url('~fonts/GrtskTeraSemiBold.woff2') format('woff2'),
+         url('~fonts/GrtskTeraSemiBold.woff') format('woff'),
+         url('~fonts/GrtskTeraSemiBold.svg#GrtskTeraSemiBold') format('svg');
+}
+@font-face {
+    font-family: 'GrtskGiga';
+    src: url('~fonts/GrtskGiga-Bold.woff2') format('woff2'),
+        url('~fonts/GrtskGiga-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'GrtskGiga';
+    src: url('~fonts/GrtskGiga-BoldItalic.woff2') format('woff2'),
+        url('~fonts/GrtskGiga-BoldItalic.woff') format('woff');
+    font-weight: 700;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: 'GrtskGiga';
+    src: url('~fonts/GrtskGiga-Semibold.woff2') format('woff2'),
+        url('~fonts/GrtskGiga-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+  }
